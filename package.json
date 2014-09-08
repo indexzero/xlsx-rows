@@ -1,0 +1,23 @@
+{
+  "name": "xlsx-rows",
+  "version": "1.0.0",
+  "description": "Parses an *.xlsx file into rows",
+  "main": "index.js",
+  "dependencies": {
+    "r...e": "~0.2.0",
+    "xlsx": "~0.7.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indexzero/xlsx-rows.git"
+  },
+  "keywords": [
+    "xlsx"
+  ],
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexzero/xlsx-rows/issues"
+  },
+  "homepage": "https://github.com/indexzero/xlsx-rows"
+}
